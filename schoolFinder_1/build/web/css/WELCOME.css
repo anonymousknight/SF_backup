@@ -1,0 +1,75 @@
+.Header {
+    float: left;
+    width: 100%;
+       margin-bottom: 40px;
+    background-color: rebeccapurple;
+}
+.heading {
+    float: right;
+    width: 75%;
+}
+.logo {
+    float: left;
+    width: 10%;
+     margin-top: 10px;
+    height: 120px;
+    margin-right: 10px;
+    margin-left: 10px;
+    }
+.img {
+    margin-top: 10px;
+    height: 120px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.Header h1 {
+    color: white;
+    font-size: 55px;
+    text-align: left;
+}
+.wel-1 {
+    margin-left: 123px;
+   
+}
+select.d1 {
+    margin-right: 68px;
+     width: 147px;
+    position: relative;
+    right: -22px;
+    height: 30px;
+}
+select.d2 {
+    margin-right: 87px;
+    height: 30px;
+    width: 147px;
+    position: relative;
+    right: -22px;
+}
+select.d3 {
+    margin-right: 87px;
+    height: 30px;
+    width: 147px;
+    position: relative;
+    right: -22px;
+} 
+input.search {
+    margin-top: 74px;
+    margin-left: 400px;
+}
+table.tab1 {
+    width: 684px;
+    height: 300px;
+    margin-left: 131px;
+    margin-top: 15px;
+    font-size: 47px;
+}
+.col {
+    background-color: ghostwhite;
+    margin-left: 83px;
+    margin-right: 233px;
+    margin-top: -9px;
+}
+
+h3.h3 {
+    margin-left: 134px;
+}

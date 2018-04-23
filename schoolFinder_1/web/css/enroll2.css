@@ -1,0 +1,131 @@
+.Header {
+    float: left;
+    width: 100%;
+   
+    background-color: rebeccapurple;
+}
+.heading {
+    float: right;
+    width: 75%;
+}
+.logo {
+    float: left;
+    width: 10%;
+     margin-top: 10px;
+    height: 120px;
+    margin-right: 10px;
+    margin-left: 10px;
+    }
+.img {
+    margin-top: 10px;
+    height: 120px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.Header h1 {
+    color: white;
+    font-size: 55px;
+    text-align: left;
+}
+.enroll {
+    margin: 0 auto;
+    display: table;
+    width: 85%;
+}
+.enroll h2 {
+    text-align: center;
+    font-size: 30px;
+}
+.con-1 {
+    margin: 0 auto;
+    display: table;
+    width: 85%;
+    margin-bottom: 25px;
+}
+input.file1 {
+    float: left;
+   
+}
+input.txt1 {
+    float: right;
+    position: relative;
+    right: 30%;
+    width: 50%;
+    height: 40px;
+    font-size: 25px;
+}
+.con-2 {
+    margin: 0 auto;
+    width: 85%;
+    margin-bottom: 30px;
+}
+input.txt2 {
+    margin-right: 30px;
+}
+.con-5 {
+    float: right;
+    width: 40%;
+    margin-right: 186px;
+}
+input.check1{
+    margin-bottom: 20px;
+}
+input.check2{
+    margin-bottom: 20px;
+}
+.try {
+    float: left;
+    background-color: mediumaquamarine;
+    width: 100%;
+    margin-top: 40px;
+}
+    
+input.c1 {
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+input.c2 {
+    margin: 0 0 10px 30px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 0 10px 0 5px;
+}
+input.c3 {
+    margin-left: 75px;
+    margin-bottom: 10px;
+}
+input.c4 {
+    margin-left: 60px;
+}
+.loc {
+    float: left;
+    width: 30%;
+}
+.con-3 {
+    float: left;
+    width: 16%;
+}
+.con-3 h3 {
+    margin-left: 65px;
+}
+.container {
+    margin: 0 auto;
+    width: 85%;
+}
+.con-5 h3 {
+    text-align: center;
+}
+.fac {
+    margin: 0 auto;
+    display: table;
+}
+.loc h3 {
+    text-align: center;
+}
+.loc input[type="file"] {
+    margin: 0 auto;
+    display: table;
+}
+input.add {
+    margin-left: 600px;
+}

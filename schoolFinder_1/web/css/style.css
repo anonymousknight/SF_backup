@@ -1,0 +1,23 @@
+body{
+    margin-top: 8%;
+}
+.back {
+    background-color: rebeccapurple;
+    width: 35%;
+    margin: 0 auto;
+    display: table;
+    padding: 50px 25px;
+}
+.login {
+    margin: 0 auto;
+    display: table;
+}
+input.tab1 {
+    height: 25px;
+    margin: 5px;
+    padding: 5px 20px;
+}
+input.btn {
+    padding: 8px 20px;
+    margin: 10px;
+}
